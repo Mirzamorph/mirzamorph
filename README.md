@@ -23,5 +23,5 @@
 
 
 
-- 📍 &nbsp;	Current location: Saint-Petersburg, Russia
-- 💬 &nbsp;	I'm ready for moving to another place
+- 📍 Current location: Saint-Petersburg, Russia
+- 💬 I'm ready for moving to another place
