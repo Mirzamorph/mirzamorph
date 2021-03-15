@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
-<br>
+
 
 #### About me
 - 🔭 I’m currently looking for a job
@@ -19,7 +19,6 @@
 - 📫 How to reach me: telegram <a href="t.me/mirzamorph">@mirzamorph</a>
 - ⚡ Fun fact: love refactoring and find code sexy
 
-<br>
 
 - 📍 &nbsp;	Current location: Saint-Petersburg, Russia
 - 💬 &nbsp;	I'm ready for moving to another place
