@@ -11,8 +11,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
+<br>
 
-About me
+#### About me
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning backend with nodejs
 - 📫 How to reach me: telegram <a href="t.me/mirzamorph">@mirzamorph</a>
