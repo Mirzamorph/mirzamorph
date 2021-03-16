@@ -18,10 +18,7 @@
 #### About me
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning backend with nodejs
-- 📫 How to reach me: telegram <a href="https://t.me/mirzamorph" target="_blank" rel="noopener">@mirzamorph</a>
-- ⚡ Fun fact: love refactoring and find code sexy
-
-
-
 - 📍 Current location: Saint-Petersburg, Russia
 - 💬 I'm ready for moving to another place
+- ⚡ Fun fact: love refactoring and find code sexy
+- 📫 How to reach me: telegram <a href="https://t.me/mirzamorph" target="_blank" rel="noopener">@mirzamorph</a>
