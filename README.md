@@ -16,7 +16,6 @@
 
 
 #### About me
-- 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning backend with nodejs
 - 📍 Current location: Saint-Petersburg, Russia
 - 💬 I'm ready for moving to another place
