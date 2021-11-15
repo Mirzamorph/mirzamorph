@@ -16,7 +16,7 @@
 
 
 #### About me
-- 🌱 I’m currently learning backend with nodejs
+- 📱 I’m currently learning Swift
 - 📍 Current location: Saint-Petersburg, Russia
 - 💬 I'm ready for moving to another place
 - ⚡ Fun fact: love refactoring and find code sexy
