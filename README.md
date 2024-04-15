@@ -1,5 +1,5 @@
 ## Hi there, I'm Rustam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### 👨‍💻 Frontend Developer with 4️⃣ years of experience
+### 👨‍💻 Frontend Developer with 7️⃣ years of experience
 
 
 
